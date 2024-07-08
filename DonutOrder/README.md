@@ -15,10 +15,6 @@ The Donut Picker App is an iOS application that allows users to select different
   - Users can see the total price for the selected quantity.
   - Upon pressing the "Buy" button, the app shows a success alert and stores the purchase information.
 
-- **Manager Mode:**
-  - Accessed by pressing the manager button and entering a passcode.
-  - Managers can add new products, update stock, and view all purchases made during the current session.
-
 ## Installation
 
 1. Clone the repository to your local machine:
