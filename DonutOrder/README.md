@@ -20,9 +20,7 @@ The Donut Picker App is an iOS application that allows users to select different
 1. Clone the repository to your local machine:
 
 2. Open the project in Xcode:
+    cd DonutOrder
+    open DonutOrderApp.xcodeproj
 
-
-cd DonutOrder
-open DonutOrderApp.xcodeproj
-
-Build and run the project on a simulator or a real device.
+3. Build and run the project on a simulator or a real device.
